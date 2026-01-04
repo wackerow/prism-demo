@@ -1,0 +1,12 @@
+# Claude settings
+.claude
+settings.local.json
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Preview files
+*.html
